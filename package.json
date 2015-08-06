@@ -10,6 +10,10 @@
 	"sourceFiles-windows-x86-ldc": ["lib/windows/x86/coff/tcl86t.lib", "lib/windows/x86/coff/tk86t.lib"],
 	"sourceFiles-windows-x86-gnu": ["lib/windows/x86/coff/tcl86t.lib", "lib/windows/x86/coff/tk86t.lib"],
 	"sourceFiles-windows-x86_64": ["lib/windows/x86_64/coff/tcl86t.lib", "lib/windows/x86_64/coff/tk86t.lib"],
+	"sourceFiles-posix-dmd": ["lib/posix/libtcl8.6.dylib", "lib/posix/libtk8.6.dylib"],
+	"sourceFiles-posix-ldc": ["lib/posix/libtcl8.6.dylib", "lib/posix/libtk8.6.dylib"],
+	"sourceFiles-posix-gnu": ["lib/posix/libtcl8.6.dylib", "lib/posix/libtk8.6.dylib"],
+	"sourceFiles-posix": ["lib/posix/libtcl8.6.dylib", "lib/posix/libtk8.6.dylib"],
 	"excludedSourceFiles": [
 		"source/c/*",
 	],
